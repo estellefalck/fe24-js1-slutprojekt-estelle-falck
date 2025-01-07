@@ -1,4 +1,3 @@
-# fe24-js1-slutprojekt-estelle-falck
 The Movie Database (TMDb) Viewer
 
 This project is a web application that allows users to search for movies, TV shows, and actors using The Movie Database (TMDb) API. The application is built using HTML, CSS, and JavaScript, and utilizes the Axios library for making API requests.
